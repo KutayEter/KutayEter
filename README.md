@@ -1,66 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF003C&text=KUTAY%20ETER&height=130&fontSize=65&fontAlignY=45&desc=Yapay%20Zekâ%20•%20Otonom%20Sistemler%20•%20İHA%20Teknolojileri&descAlignY=80&descSize=22&descColor=ffffff" alt="Kutay Eter Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Kutay%20Eter&fontAlign=50&fontAlignY=35&color=0:000000,50:5a0000,100:ff0000&fontColor=ff4d4d&animation=fadeIn"/>
 
-<br/>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF003C)](https://www.linkedin.com/in/kutay-eter-6b20572ba/)
-[![E-posta](https://img.shields.io/badge/E--posta-000000?style=for-the-badge&logo=gmail&logoColor=FF003C)](mailto:eterkutay@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=KutayEter&label=Profil%20g%C3%B6r%C3%BCnt%C3%BClenme&color=8B0000&style=flat-square" />
 
 </div>
 
----
+# Merhaba, ben Kutay 👋
 
-## 🛑 Hakkımda
+Ankara Bilim Üniversitesi Yönetim Bilişim Sistemleri 3. sınıf öğrencisiyim. Yapay zekâ, otonom sistemler, İHA teknolojileri ve bilgisayarlı görü alanlarına ilgi duyuyorum.
 
-Ankara Bilim Üniversitesi Yönetim Bilişim Sistemleri (3. sınıf) öğrencisiyim. Çalışmalarımı genel olarak Ubuntu ortamında yürütüyor; yapay zekâ, otonom sistemler, İHA teknolojileri ve bilgisayarlı görü alanlarında derinleşiyorum. Savunma sanayisine ve otonom sistemlere olan tutkumu **Asisguard** bünyesindeki çalışmalarım ve **SAS AEROSPACE** takımıyla gerçekleştirdiğimiz uçuş testleriyle sahaya yansıtıyorum.
+TEKNOFEST ve TÜBİTAK kapsamında; savaşan İHA, hava savunma sistemleri, havacılıkta yapay zekâ, sabit kanatlı İHA, sürü İHA sistemleri ve pekiştirmeli öğrenme tabanlı hava muharebesi simülasyonu projeleri geliştirdim ve geliştirmeye devam ediyorum.
 
-TEKNOFEST ve TÜBİTAK kapsamında; savaşan İHA (VTOL ve sabit kanat), hava savunma sistemleri, havacılıkta yapay zekâ, sürü İHA sistemleri ve pekiştirmeli öğrenme tabanlı hava muharebesi simülasyonları geliştiriyorum. Aynı zamanda ESP32 ve YOLO entegrasyonu ile endüstriyel güvenlik izleme gibi donanım tabanlı projeler de üretiyorum.
+Çalışmalarımda **Python, C/C++, ROS, Gazebo, NVIDIA Isaac Sim, PyBullet, PX4, ArduPilot SITL, QGroundControl, Mission Planner, OpenCV, YOLO, PyMAVLink, MAVSDK, ZeroMQ** ve **PPO tabanlı pekiştirmeli öğrenme** teknolojilerini kullanıyorum.
 
----
+## İletişim
 
-## 🩸 Çalışma Alanları & Projeler
-
-* **Sürü ve Otonom Sistemler:** Gazebo üzerinde `Swarm-UAV-System` tabanlı çoklu İHA koordinasyonu, lider-takipçi yapısı ve ZeroMQ ile merkezi veri paylaşımı.
-* **Hava Muharebesi (Dogfight):** PPO tabanlı pekiştirmeli öğrenme (RL) modelleriyle otonom takip ve FSM tabanlı kaçınma manevraları (PyBullet & Isaac Sim).
-* **Bilgisayarlı Görü:** Özel YOLO veri setleri ile hedef tespiti, sınıflandırma, OpenCV ile HUD tasarımı ve kilitlenme (lock-on) algoritmaları.
-* **Uçuş Entegrasyonu:** Algılama ve karar verme sistemlerinin ArduPilot SITL ve PX4 ile uçtan uca simüle edilerek donanım haberleşmesinin (MAVLink/ROS) sağlanması.
-
----
-
-## ⚙️ Teknolojiler ve Araçlar
-
-### Yazılım & Algoritma
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FF003C)
-![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=c%2B%2B&logoColor=FF003C)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat-square&logo=ubuntu&logoColor=FF003C)
-
-### Yapay Zekâ & Bilgisayarlı Görü
-![YOLO](https://img.shields.io/badge/YOLO-000000?style=flat-square&logoColor=FF003C)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=FF003C)
-![PPO](https://img.shields.io/badge/PPO_RL-000000?style=flat-square)
-![FSM](https://img.shields.io/badge/FSM-000000?style=flat-square)
-
-### Simülasyon & Uçuş Kontrol Ortamları
-![Gazebo](https://img.shields.io/badge/Gazebo-000000?style=flat-square)
-![Isaac_Sim](https://img.shields.io/badge/NVIDIA_Isaac_Sim-000000?style=flat-square&logo=nvidia&logoColor=FF003C)
-![PyBullet](https://img.shields.io/badge/PyBullet-000000?style=flat-square)
-![ArduPilot](https://img.shields.io/badge/ArduPilot_SITL-000000?style=flat-square)
-![PX4](https://img.shields.io/badge/PX4-000000?style=flat-square)
-![QGroundControl](https://img.shields.io/badge/QGroundControl-000000?style=flat-square)
-![Mission_Planner](https://img.shields.io/badge/Mission_Planner-000000?style=flat-square)
-
-### Robotik & Dağıtık Haberleşme
-![ROS](https://img.shields.io/badge/ROS-000000?style=flat-square&logo=ros&logoColor=FF003C)
-![ZeroMQ](https://img.shields.io/badge/ZeroMQ-000000?style=flat-square)
-![PyMAVLink](https://img.shields.io/badge/PyMAVLink-000000?style=flat-square)
-![MAVSDK](https://img.shields.io/badge/MAVSDK-000000?style=flat-square)
-
----
-
-## 📈 Geliştirici İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KutayEter&show_icons=true&bg_color=000000&title_color=FF003C&text_color=ffffff&icon_color=FF003C&hide_border=true&locale=tr&rank_icon=github" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KutayEter&layout=compact&bg_color=000000&title_color=FF003C&text_color=ffffff&hide_border=true&locale=tr" height="150" alt="Top Languages" />
-</div>
+- [LinkedIn](https://www.linkedin.com/in/kutay-eter-6b20572ba/)
+- [E-posta](mailto:eterkutay@gmail.com)
