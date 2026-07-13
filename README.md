@@ -24,11 +24,11 @@
 
 ## 🛑 Hakkımda
 
-Merhaba, ben **Kutay Eter**. Ankara Bilim Üniversitesi **Yönetim Bilişim Sistemleri 3. sınıf** öğrencisiyim. Yapay zekâ, otonom sistemler, İHA teknolojileri ve bilgisayarlı görü alanlarında çalışıyorum.
+Merhaba, ben **Kutay Eter**. Ankara Bilim Üniversitesi **Yönetim Bilişim Sistemleri** öğrencisiyim. Yapay zekâ, otonom sistemler, İHA teknolojileri ve bilgisayarlı görü alanlarında çalışıyorum.
 
-TEKNOFEST ve TÜBİTAK kapsamında; **savaşan İHA**, **hava savunma sistemleri**, **havacılıkta yapay zekâ**, **sabit kanatlı İHA**, **sürü İHA sistemleri** ve **pekiştirmeli öğrenme tabanlı hava muharebesi simülasyonları** geliştiriyorum. Çalışmalarımda hem simülasyon tabanlı hem de uçuş kontrol entegrasyonuna dayalı projeler üzerinde yoğunlaşıyorum.
+TEKNOFEST ve TÜBİTAK kapsamında çeşitli projeler geliştiriyorum. Çalışmalarımda hem simülasyon tabanlı hem de uçuş kontrol entegrasyonuna dayalı projeler üzerinde yoğunlaşıyorum.
 
-Özellikle **hedef tespiti ve takibi**, **otonom görev mantığı**, **çoklu İHA koordinasyonu**, **görüntü işleme**, **simülasyon ortamları** ve **uçuş kontrol sistemleri** üzerine çalışıyorum.
+Özellikle **hedef tespiti ve takibi**, **otonom görev mantığı**, **çoklu İHA koordinasyonu**, **görüntü işleme**, **simülasyon ortamları** ve **uçuş kontrol sistemleri** üzerinde yoğunlaşıyorum.
 
 ---
 
@@ -36,7 +36,7 @@ TEKNOFEST ve TÜBİTAK kapsamında; **savaşan İHA**, **hava savunma sistemleri
 
 - **Sürü İHA Sistemleri:** Çoklu İHA koordinasyonu, lider-takipçi yapısı, görev paylaşımı ve merkezi veri akışı
 - **Otonom Uçuş ve Görev Mantığı:** Devriye, hedef takip, rota planlama ve görev sonlandırma senaryoları
-- **Hava Muharebesi Simülasyonu:** PPO tabanlı otonom takip ve FSM tabanlı kaçınma manevraları
+- **Hava Muharebesi Simülasyonu:** RL PPO tabanlı otonom takip ve FSM tabanlı kaçınma manevraları
 - **Bilgisayarlı Görü:** YOLO tabanlı hedef tespiti, sınıflandırma, takip ve lock-on algoritmaları
 - **Sistem Entegrasyonu:** Algılama, karar verme, telemetri ve uçuş kontrol bileşenlerinin birlikte çalıştırılması
 
@@ -81,12 +81,12 @@ TEKNOFEST ve TÜBİTAK kapsamında; **savaşan İHA**, **hava savunma sistemleri
 
 ## 📌 Proje Başlıkları
 
-- **Sürü İHA Sistemleri**
-- **RL Tabanlı İHA Hava Muharebesi Simülasyonu**
+- **Sürü Kamikaze İHA Sistemleri**
+- **RL PPO Tabanlı İHA Hava Muharebesi Simülasyonu**
 - **İHA Takip ve Hedef Kilitlenme Sistemleri**
 - **Gazebo Tabanlı Otonom Görev Senaryoları**
-- **NVIDIA Isaac Sim ve Pegasus ile PX4 Entegrasyonu**
-- **YOLO Tabanlı Hedef Tespiti ve Görüntü İşleme Çalışmaları**
+- **NVIDIA Isaac Sim ve Pegasus ile Sürü İHA**
+- **YOLO Tabanlı Hedef Tespiti ve Görüntü İşleme Çalışmaları, Etiketleme**
 - **Hava Savunma ve Otonom Görev Projeleri**
 
 ---
