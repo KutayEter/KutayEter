@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=50&pause=1000&color=FF003C&center=true&vCenter=true&width=600&lines=KUTAY+ETER;OTONOM+SİSTEMLER;İHA+TEKNOLOJİLERİ" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FF003C&text=KUTAY%20ETER&height=130&fontSize=65&fontAlignY=45&desc=Yapay%20Zekâ%20•%20Otonom%20Sistemler%20•%20İHA%20Teknolojileri&descAlignY=80&descSize=22&descColor=ffffff" alt="Kutay Eter Banner" />
 
-<p align="center">
-  <b>Yapay Zekâ • Bilgisayarlı Görü • Otonom Görev Mantığı</b>
-</p>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF003C)](https://www.linkedin.com/in/kutay-eter-6b20572ba/)
 [![E-posta](https://img.shields.io/badge/E--posta-000000?style=for-the-badge&logo=gmail&logoColor=FF003C)](mailto:eterkutay@gmail.com)
