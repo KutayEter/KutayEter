@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:1a0000,100:FF003C&text=Kutay%20Eter&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Yapay%20Zek%C3%A2%20%7C%20Otonom%20Sistemler%20%7C%20%C4%B0HA%20Teknolojileri&descAlignY=58&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:1a0000,100:FF003C&text=Kutay%20Eter&fontColor=000000&fontSize=58&fontAlignY=38&desc=Yapay%20Zek%C3%A2%20%7C%20Otonom%20Sistemler%20%7C%20%C4%B0HA%20Teknolojileri&descAlignY=58&descAlign=50" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=34&pause=1100&color=FF003C&center=true&vCenter=true&width=700&lines=YAPAY+ZEK%C3%82;B%C4%B0LG%C4%B0SAYARLI+G%C3%96R%C3%9C;OTONOM+S%C4%B0STEMLER;%C4%B0HA+TEKNOLOJ%C4%B0LER%C4%B0" alt="Typing SVG" />
 
@@ -91,9 +91,12 @@ TEKNOFEST ve TÜBİTAK kapsamında; **savaşan İHA**, **hava savunma sistemleri
 
 ---
 
-## 📈 Geliştirici İstatistikleri
+## 📈 GitHub İstatistikleri
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KutayEter&show_icons=true&bg_color=000000&title_color=FF003C&text_color=ffffff&icon_color=FF003C&hide_border=true&locale=tr&rank_icon=github" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KutayEter&layout=compact&bg_color=000000&title_color=FF003C&text_color=ffffff&hide_border=true&locale=tr" height="150" alt="Top Languages" />
+
+<img src="https://img.shields.io/github/followers/KutayEter?style=for-the-badge&label=Takip%C3%A7i&labelColor=FF003C&color=000000" alt="GitHub Takipçi Sayısı" />
+<img src="https://img.shields.io/github/stars/KutayEter?affiliations=OWNER&style=for-the-badge&label=Toplam%20Y%C4%B1ld%C4%B1z&labelColor=FF003C&color=000000" alt="GitHub Yıldız Sayısı" />
+<img src="https://komarev.com/ghpvc/?username=KutayEter&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenme&color=000000&style=for-the-badge" alt="Profil Görüntülenme Sayısı" />
+
 </div>
